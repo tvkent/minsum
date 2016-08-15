@@ -2,7 +2,7 @@
 Scripts from Sas et al.
 
 ### Scripts
-* min_sum.py: python script which calculates various measures of the minimum sum of hapcut results. Paper uses minsum--other measures have autocorrelation problems
+* min_sum.py: python script which calculates various measures of the minimum sum of hapcut results. Paper uses minsum--other measures have autocorrelation problems. Requires hapcut input
 * minsum.sh: bash script to run python script above
 * hapcut.sh: example script to get hapcut results
 * simsum.py: python script to get minsum metric from simulation results
